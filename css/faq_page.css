@@ -113,11 +113,11 @@ nav a:hover {
     font-size: 15px;
 }
 
-.faq-item.active .answer {
+.item.active .answer {
     display: block;
 }
 
-.faq-item.active .question span {
+.item.active .question span {
     transform: rotate(45deg);
 }
 
