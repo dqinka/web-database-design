@@ -108,7 +108,7 @@ nav a:hover {
 .answer {
     display: none;
     padding: 0 20px 20px;
-    color: grey;
+    color: purple;
     line-height: 1.7;
     font-size: 15px;
 }
