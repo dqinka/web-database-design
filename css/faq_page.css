@@ -34,28 +34,28 @@ nav a:hover {
     color: #d6b98c;
 }
 
-.hero {
+.title {
     text-align: center;
     padding: 70px 20px 50px;
     background: whitesmoke;
 }
 
-.hero h1 {
+.title h1 {
     font-size: 42px;
     margin-bottom: 15px;
 }
 
-.hero p {
+.title p {
     color: grey;
     font-size: 16px;
 }
 
-.search-box {
+.search-question {
     max-width: 550px;
     margin: 30px auto 0;
 }
 
-.search-box input {
+.search-question input {
     width: 100%;
     padding: 16px;
     border: 1px solid whitesmoke;
@@ -63,17 +63,17 @@ nav a:hover {
     font-size: 15px;
 }
 
-.faq-container {
+.total-faq {
     max-width: 850px;
     margin: 50px auto;
     padding: 0 20px;
 }
 
-.faq-category {
+.total-faq {
     margin-bottom: 40px;
 }
 
-.faq-category h2 {
+.subject h2 {
     font-size: 22px;
     margin-bottom: 20px;
     border-bottom: 2px solid #d6b98c;
