@@ -23,16 +23,6 @@ header {
 header h2 {
     letter-spacing: 2px;
 }
-nav a {
-    color: white;
-    text-decoration: none;
-    margin-left: 25px;
-    font-size: 14px;
-}
-
-nav a:hover {
-    color: purple;
-}
 
 .title {
     text-align: center;
