@@ -5,11 +5,10 @@ body {
     align-items: center;
 }
 
-.intro {{
+.intro {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-}}
-
+}
 
 header {
     background: whitesmoke;
